@@ -40,7 +40,6 @@ a:hover {
   flex-direction: column;
   align-items: center;
   padding: 35px 80px;
-  gap: 20px;
 
   max-width: 9in;
   min-width: 9in;
@@ -100,6 +99,8 @@ main {
   flex: none;
   align-self: stretch;
   flex-grow: 0;
+
+  margin-top: 20px;
 }
 
 main .left,
