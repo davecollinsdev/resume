@@ -1,1 +1,1 @@
-# [View Resume: (davecollinsdev.github.io/resume/)](https://davieboy99.github.io/resume/)
+# [View Resume: (davecollinsdev.github.io/resume/)](https://davecollinsdev.github.io/resume/)
