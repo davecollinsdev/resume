@@ -6,7 +6,7 @@ body {
 
   font-family: "Open Sans";
 
-  color: #3f3f3f;
+  color: #585858;
 
   background: #1d1e22;
 }
@@ -61,7 +61,7 @@ a:hover {
   flex: none;
   align-self: stretch;
   flex-grow: 0;
-  max-height: 70px;
+  height: 60px;
 }
 
 .page-content > header h1 {
@@ -87,7 +87,7 @@ a:hover {
   gap: 30px;
 
   margin-top: 15px;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
 }
 
 main {
